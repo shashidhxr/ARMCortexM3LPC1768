@@ -1,0 +1,1 @@
+.\lcdx.o: lcdx.c
