@@ -1,1 +1,0 @@
-.\senor.o: senor.c

@@ -1,25 +1,0 @@
-Dependencies for Project 'new project', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_LPC17xx.s)(0x532C1658)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
-F (.\ledblink.c)(0x647B499F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\ledblink.o --omf_browse .\ledblink.crf --depend .\ledblink.d)
-F (.\system_LPC17xx.c)(0x6479A4AA)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
-I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
-I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
-I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
-I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
-F (.\senor.c)(0x648A9CE3)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\senor.o --omf_browse .\senor.crf --depend .\senor.d)
-F (.\lcd.c)(0x64844049)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
-F (.\motor2.c)(0x64843817)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\motor2.o --omf_browse .\motor2.crf --depend .\motor2.d)
-F (.\step3.c)(0x648A9CAD)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\step3.o --omf_browse .\step3.crf --depend .\step3.d)
-F (.\lcdx.c)(0x648A9CA4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\lcdx.o --omf_browse .\lcdx.crf --depend .\lcdx.d)
-F (.\lcd2.c)(0x648AB9C6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\lcd2.o --omf_browse .\lcd2.crf --depend .\lcd2.d)
-F (.\project.c)(0x648ABA6A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\project.o --omf_browse .\project.crf --depend .\project.d)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C1734)
-I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
-I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
-I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
-I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
-F (.\project1.c)(0x648A9CAB)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\project1.o --omf_browse .\project1.crf --depend .\project1.d)
-F (.\step.c)(0x648A9CA3)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\step.o --omf_browse .\step.crf --depend .\step.d)

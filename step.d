@@ -1,1 +1,0 @@
-.\step.o: step.c
